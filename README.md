@@ -19,4 +19,4 @@ PowerShell script for monitoring Windows Storage Spaces configuration and health
 ## Usage
 
 ```powershell
-.\show-storage.ps1
+.\StorageSpacesShow.ps1
